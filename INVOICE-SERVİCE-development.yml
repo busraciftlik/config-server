@@ -1,6 +1,7 @@
 spring:
   application:
     name: INVOICE-SERVICE
+  
   data:
     mongodb:
       database: invoicedb
